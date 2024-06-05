@@ -1,0 +1,14 @@
+C:\Users\carlos.araujo\source\repos\noName\noName\bin\Debug\net6.0\noName.exe
+C:\Users\carlos.araujo\source\repos\noName\noName\bin\Debug\net6.0\noName.deps.json
+C:\Users\carlos.araujo\source\repos\noName\noName\bin\Debug\net6.0\noName.runtimeconfig.json
+C:\Users\carlos.araujo\source\repos\noName\noName\bin\Debug\net6.0\noName.dll
+C:\Users\carlos.araujo\source\repos\noName\noName\bin\Debug\net6.0\noName.pdb
+C:\Users\carlos.araujo\source\repos\noName\noName\obj\Debug\net6.0\noName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.araujo\source\repos\noName\noName\obj\Debug\net6.0\noName.AssemblyInfoInputs.cache
+C:\Users\carlos.araujo\source\repos\noName\noName\obj\Debug\net6.0\noName.AssemblyInfo.cs
+C:\Users\carlos.araujo\source\repos\noName\noName\obj\Debug\net6.0\noName.csproj.CoreCompileInputs.cache
+C:\Users\carlos.araujo\source\repos\noName\noName\obj\Debug\net6.0\noName.dll
+C:\Users\carlos.araujo\source\repos\noName\noName\obj\Debug\net6.0\refint\noName.dll
+C:\Users\carlos.araujo\source\repos\noName\noName\obj\Debug\net6.0\noName.pdb
+C:\Users\carlos.araujo\source\repos\noName\noName\obj\Debug\net6.0\noName.genruntimeconfig.cache
+C:\Users\carlos.araujo\source\repos\noName\noName\obj\Debug\net6.0\ref\noName.dll

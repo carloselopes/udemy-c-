@@ -1,0 +1,32 @@
+C:\Users\carlos.araujo\source\repos\API Web\API Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carlos.araujo\source\repos\API Web\API Web\bin\Debug\net6.0\appsettings.json
+C:\Users\carlos.araujo\source\repos\API Web\API Web\bin\Debug\net6.0\API Web.exe
+C:\Users\carlos.araujo\source\repos\API Web\API Web\bin\Debug\net6.0\API Web.deps.json
+C:\Users\carlos.araujo\source\repos\API Web\API Web\bin\Debug\net6.0\API Web.runtimeconfig.json
+C:\Users\carlos.araujo\source\repos\API Web\API Web\bin\Debug\net6.0\API Web.dll
+C:\Users\carlos.araujo\source\repos\API Web\API Web\bin\Debug\net6.0\API Web.pdb
+C:\Users\carlos.araujo\source\repos\API Web\API Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\carlos.araujo\source\repos\API Web\API Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carlos.araujo\source\repos\API Web\API Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carlos.araujo\source\repos\API Web\API Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\API Web.csproj.AssemblyReference.cache
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\API Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\API Web.AssemblyInfoInputs.cache
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\API Web.AssemblyInfo.cs
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\API Web.csproj.CoreCompileInputs.cache
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\API Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\API Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\staticwebassets\msbuild.API Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\staticwebassets\msbuild.build.API Web.props
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API Web.props
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API Web.props
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\scopedcss\bundle\API Web.styles.css
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\API Web.csproj.CopyComplete
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\API Web.dll
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\refint\API Web.dll
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\API Web.pdb
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\API Web.genruntimeconfig.cache
+C:\Users\carlos.araujo\source\repos\API Web\API Web\obj\Debug\net6.0\ref\API Web.dll
